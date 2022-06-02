@@ -8,10 +8,10 @@ This is a Frontend Mentor Challenge of Junior Level
 
 **If you want to see my Live Project click below** :point_down:
 
-[Live Preview]()
+[Live Preview](https://fluffy-fenglisu-6f4a19.netlify.app/)
 
 _if above live preview doesn't work click below_ :point_down:
 
-[Live Preview]()
+[Live Preview](https://fylo-landing-page-with-two-column-layout-amber.vercel.app/)
 
 #### Thank you :+1:
